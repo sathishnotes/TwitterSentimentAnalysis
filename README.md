@@ -1,7 +1,3 @@
-<!doctype html>
-<html>
-  <head><title>Twitter Sentiment Analysis</title></head>
-  <body>
 About twitterstream.py: 
 
 Used to fetch live stream data from twitter.
@@ -45,5 +41,3 @@ access_token_secret = "&lt;Enter your access token secret here&gt;"
 This command pipes the output to a file.  Stop the program with Ctrl-C, but wait at least <strong>3 minutes</strong> for data to accumulate. Keep the file output.txt for the duration of the assignment; we will be reusing it in later problems.  Don’t use someone else’s file; we will check for uniqueness in other parts of the assignment.
 </li>
 </ol>
-    </body>
-</html>
