@@ -1,3 +1,10 @@
+Twitter represents a fundamentally new instrument to make social measurements. Millions of people voluntarily express opinions across any topic imaginable --- this data source is incredibly valuable for both research and business.   
+
+This project helps to:  
+1. access the twitter Application Programming Interface(API) using python  
+2. estimate the public's perception (the sentiment) of a particular term or phrase  
+3. analyze the relationship between location and mood based on a sample of twitter data
+
 About twitterstream.py: 
 
 Used to fetch live stream data from twitter.
